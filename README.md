@@ -61,7 +61,7 @@ The system reliably processes user requests, providing a seamless experience.
 
 The use case diagram illustrates how passengers interact with the system. It includes functionalities such as viewing ticket status, confirming travel, and more.
 
-![Use Case Diagram](./assets/userdiagram.png)
+![Use Case Diagram](./Assets-Airline/userdiagram.png)
 
 ## Class Diagram
 
