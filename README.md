@@ -74,7 +74,7 @@ The system utilizes the following classes:
 3. **PassengerInfo**
 4. **PaymentInfo**
 
-![Class Diagram](./assets/database.jpeg)
+![Class Diagram](./Assets-Airline/database.jpeg)
 
 ## Sequence Diagram
 
@@ -90,7 +90,7 @@ The sequence diagram showcases the interaction between processes over time, repr
 
 The collaboration diagram, also known as a communication diagram, displays roles, functionality, and behavior of individual objects and the system operation in real-time.
 
-![Collaboration Diagram](./assets/colaboration.png)
+![Collaboration Diagram](./Assets-Airline/colaboration.png)
 
 ## State Chart Diagram
 
@@ -98,7 +98,7 @@ The collaboration diagram, also known as a communication diagram, displays roles
 
 The state chart diagram helps understand the algorithm involved in performing a method, representing states and transitions.
 
-![State Chart Diagram](./assets/stateflow.png)
+![State Chart Diagram](./Assets-Airline/stateflow.png)
 
 ## Activity Diagram
 
@@ -106,7 +106,7 @@ The state chart diagram helps understand the algorithm involved in performing a 
 
 Activity diagrams represent workflows of stepwise activities and actions. It shows the overall flow of control in the system.
 
-![Activity Diagram](./assets/structure.jpeg)
+![Activity Diagram](./Assets-Airline/structure.jpeg)
 
 ## Component Diagram
 
@@ -114,7 +114,7 @@ Activity diagrams represent workflows of stepwise activities and actions. It sho
 
 The component diagram illustrates structural relationships between system components using boxed figures and communication associations.
 
-![Component Diagram](./assets/component.png)
+![Component Diagram](./Assets-Airline/component.png)
 
 ## Technologies Used
 
