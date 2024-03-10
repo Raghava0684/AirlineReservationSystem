@@ -74,7 +74,7 @@ The system utilizes the following classes:
 3. **PassengerInfo**
 4. **PaymentInfo**
 
-![Class Diagram](./Assets-Airline/Database.jpeg)
+![Class Diagram](./Assets-Airline/Database.jpg)
 
 ## Sequence Diagram
 
@@ -106,7 +106,7 @@ The state chart diagram helps understand the algorithm involved in performing a 
 
 Activity diagrams represent workflows of stepwise activities and actions. It shows the overall flow of control in the system.
 
-![Activity Diagram](./Assets-Airline/structure.jpeg)
+![Activity Diagram](./Assets-Airline/Structure.jpg)
 
 ## Component Diagram
 
