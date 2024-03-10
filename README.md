@@ -82,7 +82,7 @@ The system utilizes the following classes:
 
 The sequence diagram showcases the interaction between processes over time, representing different objects and their functions.
 
-![Sequence Diagram](./assets/sequenceDiagram.png)
+![Sequence Diagram](./Assets-Airline/sequenceDiagram.png)
 
 ## Collaboration Diagram
 
