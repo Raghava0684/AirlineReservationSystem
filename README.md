@@ -2,7 +2,7 @@
 
 Welcome to the Airline Reservation System project! This Java-based desktop application aims to simplify the ticket booking process for airlines. Below you'll find a comprehensive overview of the project, including the technologies used, features, and instructions for setup and usage.
 
-[Demo Video](https://drive.google.com/file/d/1OpihJ4QWp6uysZ-pGOg4vscf5sCRpSnf/view?usp=sharing)
+[Demo Video](https://drive.google.com/file/d/1jU0oIxp9CDpuOnLg6z-drg171egkWEL3/view?usp=drive_link)
 
 ## Table of Contents
 
@@ -74,7 +74,7 @@ The system utilizes the following classes:
 3. **PassengerInfo**
 4. **PaymentInfo**
 
-![Class Diagram](./Assets-Airline/database.jpeg)
+![Class Diagram](./Assets-Airline/Database.jpeg)
 
 ## Sequence Diagram
 
